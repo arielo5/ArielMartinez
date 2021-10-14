@@ -1,4 +1,4 @@
-![Header align='center'](./ArielMartinez.png)
+<img align='center'>![Header align='center'](./ArielMartinez.png) </img>
 <h1 align='center'> Hi! :wave:</h1>
 <p align='center'>
 I'm Ariel.
